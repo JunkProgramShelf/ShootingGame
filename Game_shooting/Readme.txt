@@ -13,7 +13,7 @@ drawEnemy():敵の描画処理
 Enemy_Control():敵の動作処理
 Player_Shooting():発射処理
 Player_Key_Control():操作処理
-MovingBullet():玉の動作処理
+MovingBullet():弾の動作処理
 Check_Hit():着弾処理
 GameSet():終了処理
 
